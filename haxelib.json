@@ -1,0 +1,14 @@
+{
+	"name": "react-native-youtube-player",
+	"contributors": ["jarrio"],
+	"url" : "https://github.com/Jarrio/haxe-react-native-youtube",
+	"license": "MIT",
+	"tags": ["extern", "jarrio", "javascript", "js", "haxe", "react-native"],
+	"description": "React-native externs for youtube integration",
+	"version": "0.1",
+	"classPath": "src/",
+	"releasenote": "",
+	"dependencies": {
+    	"react-native": ""
+  	}
+}
