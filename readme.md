@@ -6,7 +6,6 @@ To get this working you will need to setup react-native and haxe-react-native
 
 Tested on:
 - React-native: 0.40.0
-- React-native-cli: 2.0.0
 
 To install from git run the following command:
 
