@@ -10,7 +10,7 @@ and then use in the same way.
 
 Tested on:
 - React-native: 0.40.0
-- React-native-cli 2.0.0
+- React-native-cli: 2.0.0
 
 To install from git run the following command:
 
