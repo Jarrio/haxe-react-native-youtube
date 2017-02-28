@@ -9,7 +9,7 @@ Tested on:
 
 To install from git run the following command:
 
-`haxelib git haxe-react-native-youtube https://github.com/Jarrio/haxe-react-native-youtube.git`
+`haxelib install haxe-react-native-youtube`
 
 add a reference to the lib in your `common.hxml` file (`-lib haxe-react-native-youtube`) and then import the lib into your file.
 
