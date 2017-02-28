@@ -7,7 +7,7 @@ To get this working you will need to setup react-native and haxe-react-native
 Tested on:
 - React-native: 0.40.0
 
-To install from git run the following command:
+To install run the following command:
 
 `haxelib install haxe-react-native-youtube`
 
